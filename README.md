@@ -1,7 +1,8 @@
-## Aurora-AI
+## HEX16AI
 Use Web6 2.79 version test to run Aurora ai.
 Artificial Intelligence，Computer Graphics，Future Experiences.
-![YpJjdmQQ_400x400](https://github.com/user-attachments/assets/d236a6cc-c344-4f2a-a804-ac3432c74c16)
+![Uploading QmdiAhVuguKYTjw2H2Q3KKEFarTuNiEmBsUvkpWVhQJLD6.png…]()
+
 
 This example demonstrates how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Next.js](https://nextjs.org/) and the `streamUI` function to create generative user interfaces by streaming React Server Components to the client.
 
