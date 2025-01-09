@@ -1,4 +1,4 @@
-## HEX16AI
+## HEX17AI
 Use Web6 2.79 version test to run HEX16AI.
 Artificial Intelligence，Computer Graphics，Future Experiences.
 
